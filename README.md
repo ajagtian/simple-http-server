@@ -20,7 +20,7 @@ This is mininal configuration non commercial Http Server for static content,so t
 
 <h2>How to test</h2>
 <ul>
-	<li>start the server<li>
+	<li>start the server</li>
 	<li>Hit the host in browser as per your configuration</li>
 	<li>Test 2 mime types present in htdocs</li>
 </ul>
