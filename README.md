@@ -7,13 +7,13 @@ This is mininal configuration non commercial Http Server for static content,so t
 
 <h2>How to start?</h2>
 <ul>
-	<li>Go to bin/<li>
+	<li>Go to bin/</li>
 	<li>run <code>java SimpleHttpServer</code></li>
 </ul>
 
 <h2>How to stop?</h2>
 <ul>
-	<li>On Linux - Kill the process<li>
+	<li>On Linux - Kill the process</li>
 	<li><blockquote>kill -9 [pid]</blockquote</li>
 	<li>On window - Terminate the process from Task Manager</li>
 </ul>
