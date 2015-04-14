@@ -1,7 +1,7 @@
 simple-http-server
 ==================
 
-Minimalistic Static Http Server
+-Minimalistic Static Http Server-
 
 This is mininal configuration non commercial Http Server for static content,so that instead of doing heavy configurations on Apache you can choose this faster alternative.
 
